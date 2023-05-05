@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingDojo", "BowlingDojo\BowlingDojo.csproj", "{D2E489C1-C344-4051-AC25-4D32F9D3A6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{3D2DBD61-4C82-410B-8ECE-458045E446DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E489C1-C344-4051-AC25-4D32F9D3A6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E489C1-C344-4051-AC25-4D32F9D3A6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E489C1-C344-4051-AC25-4D32F9D3A6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E489C1-C344-4051-AC25-4D32F9D3A6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2DBD61-4C82-410B-8ECE-458045E446DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2DBD61-4C82-410B-8ECE-458045E446DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2DBD61-4C82-410B-8ECE-458045E446DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2DBD61-4C82-410B-8ECE-458045E446DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C59E26A-8F76-4DC5-9CBF-60C570692C85}
+	EndGlobalSection
+EndGlobal
